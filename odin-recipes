@@ -1,0 +1,29 @@
+<DOCTYPE html>
+    <html lang="em">
+      <head>
+      </head>
+      <body>
+            <a>
+              <h1>Odin Recipes</h1>
+          <img src="https://www.tasteofhome.com/wp-content/uploads/2018/01/Chicken-Tostada-Cups_EXPS_WDBZ22_98805_B09_15_2b.jpg?fit=700,700">
+              <h2>Ingredients</h2>
+            <ul>
+                <li>12 corn tortillas (6 inches), warmed</li>
+                <li>Cooking spray</li>
+                <li>2 cups shredded rotisserie chicken</li>
+                <li>1 cup salsa</li>
+                <li>1 can (16 ounces) refried beans</li>
+                <li>1 cup shredded reduced-fat Mexican cheese blend</li>
+            </ul>
+              <h2>Nutrition Facts</h2>
+            <p>
+              2 tostada cups: 338 calories, 11g fat (4g saturated fat), 52mg cholesterol, 629mg sodium, 35g carbohydrate (2g sugars, 6g fiber), 25g protein. Diabetic Exchanges: 3 lean meat, 2 starch, 1 fat.
+            </p>
+              <h2>Directions</h2>
+             <ol>
+                <li>Preheat oven to 425°. Press warm tortillas into 12 muffin cups coated with cooking spray, pleating sides as needed. Spritz tortillas with additional cooking spray.</li><br>
+                <li>Bake until lightly browned, 5-7 minutes. Toss chicken with salsa. Layer each cup with beans, chicken mixture and cheese.</li><br>
+                <li>Bake until heated through, 9-11 minutes. Serve with toppings as desired.</li>
+              </ol>
+          </body>
+        </html>
